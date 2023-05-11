@@ -1,2 +1,0 @@
-# vs-chess
-Chess Game
